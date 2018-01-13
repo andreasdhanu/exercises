@@ -1,0 +1,18 @@
+#home{
+  background:url("https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.walldevil.com%2Fwallpapers%2Fa60%2Fbeach-wallpaper-white-black-border-backgrounds-wallpapers.jpg&f=1");
+  background-size:100% 100%;
+}
+
+#home h1{
+  color:white;
+}
+
+hr{
+  color:white;
+  background-color:white;
+  height:5px;
+}
+
+footer{
+  background-color:#cdcdcd;
+}
